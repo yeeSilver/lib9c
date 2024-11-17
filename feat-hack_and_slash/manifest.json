@@ -362,6 +362,16 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Action.AlreadyClaimedGiftsException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Action.AlreadyClaimedGiftsException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Nekoyume.Action.AlreadyContractedException.yml",
       "output": {
         ".html": {
@@ -662,6 +672,16 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Action.ClaimGifts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Action.ClaimGifts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Nekoyume.Action.ClaimItems.yml",
       "output": {
         ".html": {
@@ -716,6 +736,16 @@
       "output": {
         ".html": {
           "relative_path": "api/Nekoyume.Action.ClaimWordBossKillReward.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Action.ClaimableGiftsNotAvailableException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Action.ClaimableGiftsNotAvailableException.html"
         }
       },
       "version": ""
@@ -816,6 +846,16 @@
       "output": {
         ".html": {
           "relative_path": "api/Nekoyume.Action.CostumeSlotUnlockException.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Action.CostumeSummon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Action.CostumeSummon.html"
         }
       },
       "version": ""
@@ -3916,6 +3956,16 @@
       "output": {
         ".html": {
           "relative_path": "api/Nekoyume.Helper.RuneHelper.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Helper.SummonHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Helper.SummonHelper.html"
         }
       },
       "version": ""
@@ -7672,6 +7722,16 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.Module.GiftModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.Module.GiftModule.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Nekoyume.Module.Guild.GuildApplicationModule.yml",
       "output": {
         ".html": {
@@ -8246,6 +8306,26 @@
       "output": {
         ".html": {
           "relative_path": "api/Nekoyume.TableData.CharacterSheetExtension.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.TableData.ClaimableGiftsSheet.Row.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.TableData.ClaimableGiftsSheet.Row.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.TableData.ClaimableGiftsSheet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.TableData.ClaimableGiftsSheet.html"
         }
       },
       "version": ""
@@ -10456,6 +10536,36 @@
       "output": {
         ".html": {
           "relative_path": "api/Nekoyume.TableData.StatBuffSheet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.TableData.Summon.CostumeSummonSheet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.TableData.Summon.CostumeSummonSheet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.TableData.Summon.EquipmentSummonSheet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.TableData.Summon.EquipmentSummonSheet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Nekoyume.TableData.Summon.RuneSummonSheet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Nekoyume.TableData.Summon.RuneSummonSheet.html"
         }
       },
       "version": ""
